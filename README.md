@@ -15,7 +15,7 @@ This website is not official or part of any existing or upcoming projects. But, 
 ## URLS 🔗
 
 - GitHub Repository: https://github.com/haripreethpichuka/WanderWave-Explore-Yourself
-- Vercel Deploy: https://make-my-trip-pink.vercel.app/
+- Vercel Deploy: https://haripreethpichuka.github.io/WanderWave-Explore-Yourself/
 
 ## Tools and Languages 🔨
 
