@@ -4,7 +4,7 @@ This website is not official or part of any existing or upcoming projects. But, 
 
 ## Table of contents
 
-- [MakeMyTrip Demo Project](#makemytrip-demo-project)
+- [WanderWave Project](#makemytrip-demo-project)
   - [Table of contents](#table-of-contents)
   - [URLS 🔗](#urls-)
   - [Tools and Languages 🔨](#tools-and-languages-)
