@@ -1,4 +1,4 @@
-# MakeMyTrip Demo Project
+# WanderWave Project
 
 This website is not official or part of any existing or upcoming projects. But, is a project I created while learning how to make websites. Now it's being updated.
 
